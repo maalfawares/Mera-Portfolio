@@ -12,7 +12,7 @@ function App() {
       <>
         <BrowserRouter>
             <Switch>
-                <Route exact path=""><Home/></Route>
+                <Route exact path="/mera-portfolio"><Home/></Route>
                 <Route exact path="/projects"><Projects/></Route>
                 <Route exact path="/portfolio"><Portfolio/></Route>
             </Switch>
