@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/mera-portfolio/static/css/main.4458e121.chunk.css",
+    "main.js": "/mera-portfolio/static/js/main.1208fb77.chunk.js",
+    "main.js.map": "/mera-portfolio/static/js/main.1208fb77.chunk.js.map",
+    "runtime-main.js": "/mera-portfolio/static/js/runtime-main.1e1a2fee.js",
+    "runtime-main.js.map": "/mera-portfolio/static/js/runtime-main.1e1a2fee.js.map",
+    "static/css/2.75922eb6.chunk.css": "/mera-portfolio/static/css/2.75922eb6.chunk.css",
+    "static/js/2.980723d5.chunk.js": "/mera-portfolio/static/js/2.980723d5.chunk.js",
+    "static/js/2.980723d5.chunk.js.map": "/mera-portfolio/static/js/2.980723d5.chunk.js.map",
+    "index.html": "/mera-portfolio/index.html",
+    "precache-manifest.9290bf79bfa91d14eee9c7cb20820961.js": "/mera-portfolio/precache-manifest.9290bf79bfa91d14eee9c7cb20820961.js",
+    "service-worker.js": "/mera-portfolio/service-worker.js",
+    "static/css/2.75922eb6.chunk.css.map": "/mera-portfolio/static/css/2.75922eb6.chunk.css.map",
+    "static/css/main.4458e121.chunk.css.map": "/mera-portfolio/static/css/main.4458e121.chunk.css.map",
+    "static/js/2.980723d5.chunk.js.LICENSE.txt": "/mera-portfolio/static/js/2.980723d5.chunk.js.LICENSE.txt",
+    "static/media/EVELogo.png": "/mera-portfolio/static/media/EVELogo.2efaa1d9.png",
+    "static/media/semantic.min.css": "/mera-portfolio/static/media/outline-icons.ef60a4f6.woff",
+    "static/media/email.svg": "/mera-portfolio/static/media/email.87ffdcdd.svg",
+    "static/media/file.svg": "/mera-portfolio/static/media/file.a7ad083d.svg",
+    "static/media/github.svg": "/mera-portfolio/static/media/github.f77e8b32.svg",
+    "static/media/landing_pic.png": "/mera-portfolio/static/media/landing_pic.aaf16c75.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1e1a2fee.js",
+    "static/css/2.75922eb6.chunk.css",
+    "static/js/2.980723d5.chunk.js",
+    "static/css/main.4458e121.chunk.css",
+    "static/js/main.1208fb77.chunk.js"
+  ]
+}
