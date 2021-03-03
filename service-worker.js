@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/mera-portfolio/precache-manifest.9290bf79bfa91d14eee9c7cb20820961.js"
+  "/mera-portfolio/precache-manifest.fdc24e9074105d5d4641efe235a381bf.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a370424e57ce2eb912921297a332884c",
+    "revision": "fa394d0c0b6e511dfc386caa981911ef",
     "url": "/mera-portfolio/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mera-portfolio/static/css/2.75922eb6.chunk.css"
   },
   {
-    "revision": "7aa778dc54203e957585",
+    "revision": "4fd58fb00e3f793aa549",
     "url": "/mera-portfolio/static/css/main.4458e121.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mera-portfolio/static/js/2.980723d5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7aa778dc54203e957585",
-    "url": "/mera-portfolio/static/js/main.1208fb77.chunk.js"
+    "revision": "4fd58fb00e3f793aa549",
+    "url": "/mera-portfolio/static/js/main.f80371d4.chunk.js"
   },
   {
     "revision": "5a6b71f8906b6bb13fec",
